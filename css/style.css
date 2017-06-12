@@ -12,3 +12,15 @@
     overflow: hidden;
     height: 300px;
 }
+
+.carrousel {background-color: blue;}
+
+#introduction {background-color: red;
+			   padding-top: 1px;}
+
+
+#introduction h2 { padding-top: 60px;
+				   padding-bottom: 30px;
+				   color:blue; }
+
+#introduction p { padding-bottom: 60px; }
