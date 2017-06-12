@@ -1,0 +1,11 @@
+/*vert : #2BC69E*/
+/*gris foncé : #363636*/
+/*noir : #1A1B1D*/
+.contact{
+    background-color: #363636;;
+}
+
+.contact form{
+    color: #fff;
+    width: 300px;
+}
