@@ -5,9 +5,9 @@ function initMap() {
     ["Champ Fleuri <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎‎", -20.8857654, 55.46626689999994],
     ["La Montagne <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9012914, 55.4084034],
     ["Le Moufia <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9106808, 55.48316610000006],
-    ["Bois de Nèfles <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9340583, 55.47208610000007],
+    ["Bois de Nèfles <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/boisdenefles.html'>voir le site dédié au chaudron</a>‎", -20.9340583, 55.47208610000007],
     ["Le Butor <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.8883845, 55.47070120000001],
-    ["Les Camélias <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.8947435, 55.461699899999985],
+    ["Les Camélias <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/camelia.html'>voir le site dédié au chaudron</a>‎", -20.8947435, 55.461699899999985],
     ["Domenjod <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9157612, 55.50533029999997],
     ["La Grande Chaloupe <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.9040455, 55.398167899999976],
     ["Montgaillard‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.9058911, 55.46793149999996],
@@ -21,6 +21,7 @@ function initMap() {
     ["Bas de la Rivière‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.8844545, 55.44508450000001],
     ["Le Brûlé‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.9212428, 55.43885460000001],
     ["Bellepierre <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bellepierre.html'>voir le site dédié au chaudron</a>", -20.895689, 55.44700599999999],
+    ["Barachois <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html'>voir le site dédié au chaudron</a>", -20.8726961, 55.448891900000035],
 
   ];
 
