@@ -33,7 +33,7 @@ body{
 .intro { padding-top: 70px; padding-bottom: 70px;}
 .intro p{ font-size:1.2em;  }
 
-hr {border-color:#D9A24F; 
+hr {border-color:#707366; 
     width:1210px;}
 
 .top{ padding-top: 70px; padding-bottom: 70px; }
@@ -41,7 +41,11 @@ hr {border-color:#D9A24F;
 
 
 
+<<<<<<< HEAD
 
 
 
 #map {padding-top: 30px; padding-bottom: 60px;}
+=======
+h2{ padding:50px 0; }
+>>>>>>> 93b832c1cbea896bb287b7f758dee03239491a71
