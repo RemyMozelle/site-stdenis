@@ -55,8 +55,13 @@ footer{ height: 100px;
 .contact { margin:0 100px; }
 
 
-
+<<<<<<< HEAD
 footer p { color:white;    }
-
+||||||| merged common ancestors
 h2{ padding:50px 0; }
+=======
 
+
+
+#map {padding-top: 30px; padding-bottom: 60px;}
+>>>>>>> 83a7d79e277f2c8139d8a102a63a1bd779e65626
