@@ -24,8 +24,8 @@
     <body>
       
         <div class="banner">
-        <div class="container">
-        <h1 class="text-center"> Découvrez Saint-Denis</br> Intéractivement !</h1>
+        <div class="container text-center">
+        <h1 class="text-center"> Découvrez Saint-Denis intéractivement !</h1>
         </div>
       </div>  
 
@@ -38,7 +38,9 @@
 
         <hr> 
         <h2 class="text-center">Retrouvez-vous immédiatemment!</h2>
-     
+        <div id="map" class="text-center">
+           
+           </div> 
 
         
 
@@ -98,10 +100,19 @@
             </div>
         </div>
 </div>
-</div>
+
+
+<footer>
+    <p class="text-center">Copyright Team GB</p>
+</footer>
+
 
              
-    
+    <script src="js/map.js"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGyefx1V4ZzyJ4yoQSflmRJF1uze39FC0&callback=initMap">
+        </script>
+
+
     </body>
 
 </html>

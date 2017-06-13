@@ -22,10 +22,10 @@ body{
           background-position: center;
           padding-top: 1px;
 
-        height: 50vh; }
+        height: 62vh; }
 
-.banner h1{ color:#DFD9C8;font-weight: bold;
-            padding-top: 100px;}
+.banner h1{ color:white; font-weight: bold;
+            padding-top: 145px;}
 
 
 
@@ -36,9 +36,23 @@ body{
 hr {border-color:#707366; 
     width:1210px;}
 
-.top{ padding-top: 70px; padding-bottom: 70px; }
-.top h2{color:black;}
 
+#map{ margin: 10px auto; margin-bottom: 100px;
+      width: 85%; height: 420px;
+      padding-top: 30px; padding-bottom: 60px; }
 
+.resize{
+    width: 200px;
+}
 
 h2{ padding:50px 0; }
+
+
+footer{ height: 100px; 
+        background-color:#D6A14D;  }
+
+
+.contact { margin:0 100px; }
+
+
+footer p { color:white;    }
