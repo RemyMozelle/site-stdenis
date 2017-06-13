@@ -22,6 +22,7 @@ function initMap() {
     ["Le Brûlé‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.9212428, 55.43885460000001],
     ["Bellepierre <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bellepierre.html'>voir le site dédié au chaudron</a>", -20.895689, 55.44700599999999],
     ["Barachois <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html'>voir le site dédié au chaudron</a>", -20.8726961, 55.448891900000035],
+    ["Centre ville <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html'>voir le site dédié au chaudron</a>", -20.8906596,  55.45505359999993],
 
   ];
 
