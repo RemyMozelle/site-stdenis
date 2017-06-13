@@ -1,3 +1,51 @@
+/*vert : #2BC69E*/
+/*gris foncé : #363636*/
+/*noir : #1A1B1D*/
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F1F1F1;
+    color:#676767;
+}
+
+
+
+.banner { background-image: url(../images/62384521.jpg);  
+          background-size: cover;      
+          background-position: center;
+          padding-top: 1px;
+
+        height: 50vh; }
+
+.banner h1{ color:#DFD9C8;font-weight: bold;
+            padding-top: 100px;}
+
+
+
+
+.intro { padding-top: 70px; padding-bottom: 70px;}
+.intro p{ font-size:1.2em;  }
+
+hr {border-color:#D9A24F; 
+    width:1210px;}
+
+.top{ padding-top: 70px; padding-bottom: 70px; }
+.top h2{color:black;}
+
+
+
+
+
+
+#map {padding-top: 30px; padding-bottom: 60px;}
+
 #map{
     width: 100%;
     height: 800px;
