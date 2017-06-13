@@ -5,7 +5,7 @@ function initMap() {
     ["Champ Fleuri <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎‎", -20.8857654, 55.46626689999994],
     ["La Montagne <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9012914, 55.4084034],
     ["Le Moufia <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9106808, 55.48316610000006],
-    ["Bois de Nèfles <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.8885043, 55.45804810000004],
+    ["Bois de Nèfles <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9340583, 55.47208610000007],
     ["Le Butor <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.8883845, 55.47070120000001],
     ["Les Camélias <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.8947435, 55.461699899999985],
     ["Domenjod <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>‎", -20.9157612, 55.50533029999997],
@@ -20,6 +20,7 @@ function initMap() {
     ["La Source‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.8908983, 55.4481131],
     ["Bas de la Rivière‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.8844545, 55.44508450000001],
     ["Le Brûlé‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/chaudron.html'>voir le site dédié au chaudron</a>", -20.9212428, 55.43885460000001],
+    ["Bellepierre <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bellepierre.html'>voir le site dédié au chaudron</a>", -20.895689, 55.44700599999999],
 
   ];
 
@@ -31,138 +32,14 @@ function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 12,
     center: stdenis,
-    styles: [{
-        elementType: 'geometry',
-        stylers: [{
-          color: '#242f3e'
-        }]
-      },
-      {
-        elementType: 'labels.text.stroke',
-        stylers: [{
-          color: '#242f3e'
-        }]
-      },
-      {
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#746855'
-        }]
-      },
-      {
-        featureType: 'administrative.locality',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#d59563'
-        }]
-      },
-      {
-        featureType: 'poi',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#d59563'
-        }]
-      },
-      {
-        featureType: 'poi.park',
-        elementType: 'geometry',
-        stylers: [{
-          color: '#263c3f'
-        }]
-      },
-      {
-        featureType: 'poi.park',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#6b9a76'
-        }]
-      },
-      {
-        featureType: 'road',
-        elementType: 'geometry',
-        stylers: [{
-          color: '#38414e'
-        }]
-      },
-      {
-        featureType: 'road',
-        elementType: 'geometry.stroke',
-        stylers: [{
-          color: '#212a37'
-        }]
-      },
-      {
-        featureType: 'road',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#9ca5b3'
-        }]
-      },
-      {
-        featureType: 'road.highway',
-        elementType: 'geometry',
-        stylers: [{
-          color: '#746855'
-        }]
-      },
-      {
-        featureType: 'road.highway',
-        elementType: 'geometry.stroke',
-        stylers: [{
-          color: '#1f2835'
-        }]
-      },
-      {
-        featureType: 'road.highway',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#f3d19c'
-        }]
-      },
-      {
-        featureType: 'transit',
-        elementType: 'geometry',
-        stylers: [{
-          color: '#2f3948'
-        }]
-      },
-      {
-        featureType: 'transit.station',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#d59563'
-        }]
-      },
-      {
-        featureType: 'water',
-        elementType: 'geometry',
-        stylers: [{
-          color: '#17263c'
-        }]
-      },
-      {
-        featureType: 'water',
-        elementType: 'labels.text.fill',
-        stylers: [{
-          color: '#515c6d'
-        }]
-      },
-      {
-        featureType: 'water',
-        elementType: 'labels.text.stroke',
-        stylers: [{
-          color: '#17263c'
-        }]
-      }
-    ]
+    
   });
 
   function placeMarker(loc) {
     var latLng = new google.maps.LatLng(loc[1], loc[2]);
     var marker = new google.maps.Marker({
       position: latLng,
-      map: map,
-      icon: '../site-stdenis/images/icon/city.png'
+      map: map
     });
 
     google.maps.event.addListener(marker, 'click', function () {
