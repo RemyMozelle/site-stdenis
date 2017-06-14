@@ -10,7 +10,7 @@ function initMap() {
 
     ["Le Moufia <br> <img src='../site-stdenis/images/moufia.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/moufia.html' type='button' class='btn btn-default'>voir son site dédié</a>‎", -20.9106808, 55.48316610000006],
 
-    ["Bois de Nèfles <br> <img src='../site-stdenis/images/bois-de-nefles.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bois-de-nefles.html' type='button' class='btn btn-default'>voir son site dédié</a>‎", -20.9340583, 55.47208610000007],
+    ["Bois de Nèfles <br> <img src='../site-stdenis/images/boisdenefles.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bois-de-nefles.html' type='button' class='btn btn-default'>voir son site dédié</a>‎", -20.9340583, 55.47208610000007],
 
     ["Le Butor <br> <img src='../site-stdenis/images/butor.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/butor.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8883845, 55.47070120000001],
 
@@ -32,9 +32,9 @@ function initMap() {
 
     ["Sainte-Clotilde‎ <br> <img src='../site-stdenis/images/sainte-clotilde.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/sainte-clotilde.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.9190923, 55.48593630000005],
 
-    ["La Source‎ <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/la-source.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8908983, 55.4481131],
+    ["La Source‎ <br> <img src='../site-stdenis/images/lasource.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/la-source.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8908983, 55.4481131],
 
-    ["Bas de la Rivière‎ <br> <img src='../site-stdenis/images/bas-de-la-riviere.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bas-de-la-riviere.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8844545, 55.44508450000001],
+    ["Bas de la Rivière‎ <br> <img src='../site-stdenis/images/blr.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/bas-de-la-riviere.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8844545, 55.44508450000001],
 
     ["Le Brûlé‎ <br> <img src='../site-stdenis/images/le-brule.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/le-brule.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.9212428, 55.43885460000001],
 
