@@ -26,10 +26,9 @@ body{
 
 .banner h1{ color:white; font-weight: bold;
             padding-top: 100px;}
-
+/*
 .btn { color:#D4A04D; font-weight: bold; background-color:  #bfbfbf; border-color:#fff; font-size: 13px; }
-
-
+*/ 
 
 .intro { padding-top: 70px; padding-bottom: 70px; background-color: #eae5e5;}
 .intro p{ font-size:1.2em;  }
@@ -44,6 +43,8 @@ hr {border-color:#707366; padding-top: 1px;
 
 .resize{
     width: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 h2{ padding:50px 0; }
@@ -90,7 +91,9 @@ article {
 .services .row { padding-top: 30px; }
 
 .fa-user-circle-o{color:#D4A04D;}
-
+.fa-user-circle-o:before { 
+    font-size: 5em;
+}
 .box {
   margin-top: 70px; padding-bottom: 60px;}
 

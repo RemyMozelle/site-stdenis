@@ -34,6 +34,11 @@ hr {border-color:#707366;
       width: 85%; height: 420px;
       padding-top: 30px; padding-bottom: 60px; }
 
+.resize{
+    width: 200px;
+    margin-bottom: 5px;
+}
+
 
  h2{ padding:50px 0; }
 
