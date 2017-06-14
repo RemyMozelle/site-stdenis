@@ -24,11 +24,11 @@ function initMap() {
 
     ["La Providence <br> <img src='../site-stdenis/images/la-providence.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/la-providence.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.9043277, 55.45546880000006],
 
-    ["Quartier Saint-Jacques <br> <img src='../site-stdenis/images/quartier-saint-jacques.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/quartier-saint-jacques.html' type='button' class='btn btn-default'>voir son site dédié</a>‎", -20.8768526, 55.44847200000004],
+    ["Quartier Saint-Jacques <br> <img src='../site-stdenis/images/stjac.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/quartier-saint-jacques.html' type='button' class='btn btn-default'>voir son site dédié</a>‎", -20.8768526, 55.44847200000004],
 
-    ["Ruisseau des Noirs <br> <img src='../site-stdenis/images/ruisseau-des-noirs.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/ruisseau-des-noirs.html type='button' class='btn btn-default''>voir son site dédié</a>", -20.8873627, 55.453785100000005],
+    ["Ruisseau des Noirs <br> <img src='../site-stdenis/images/ruisseau-des-noirs.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/ruisseau-des-noirs.html' type='button' class='btn btn-default''>voir son site dédié</a>", -20.8873627, 55.453785100000005],
 
-    ["Saint François <br> <img src='../site-stdenis/images/saint-francois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/saint-francois.html type='button' class='btn btn-default''>voir son site dédié</a>", -20.9250592, 55.45546880000006],
+    ["Saint François <br> <img src='../site-stdenis/images/saint-francois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/saint-francois.html' type='button' class='btn btn-default''>voir son site dédié</a>", -20.9250592, 55.45546880000006],
 
     ["Sainte-Clotilde‎ <br> <img src='../site-stdenis/images/sainte-clotilde.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/sainte-clotilde.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.9190923, 55.48593630000005],
 
@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='../site-stdenis/images/centre-ville.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-default'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='site-stdenis/images/centre-ville.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-default'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
 
   ];
 
