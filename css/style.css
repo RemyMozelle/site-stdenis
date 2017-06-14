@@ -52,11 +52,6 @@ h2{ padding:50px 0; }
 footer{ height: 100px; 
         background-color:#D4A04D  ;  }
 
-
-.contact { padding:60px;}
-
-
-
 footer p { color:white;    }
 
 h2{ padding-top: :60px; padding-bottom: 3px; font-weight: bold; color:#D4A04D ; }
@@ -94,9 +89,6 @@ article {
 
 .services .row { padding-top: 30px; }
 
-
-
-
 .fa-user-circle-o{color:#D4A04D;}
 
 .box {
@@ -110,7 +102,11 @@ article {
 
 .carte  { background-color: #eae5e5;}
 
-i{ color:#D4A04D; }
+i{ color:#D4A04D; font-size: 50px; }
+
+
+.contact { padding:60px;}
 
 .contact h3 { padding-bottom: 50px; 
               margin-top: 10px; }
+
