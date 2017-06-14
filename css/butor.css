@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
@@ -10,7 +11,7 @@ body{
 
 
 
-.banner { background-image: url(../images/saint-francois.jpg);  
+.banner { background-image: url("../images/butor.jpg");  
           background-size: cover;      
           background-position: center;
           padding-top: 1px;
@@ -44,3 +45,4 @@ footer{ height: 100px;
 
 
 footer p { color:white;    }
+
