@@ -21,12 +21,13 @@ body{
           background-size: cover;      
           background-position: center;
           padding-top: 1px;
+          height: 62vh; }
 
-        height: 62vh; }
 
 .banner h1{ color:white; font-weight: bold;
-            padding-top: 145px;}
+            padding-top: 100px;}
 
+.btn { color:#D4A04D; font-weight: bold; background-color:  #bfbfbf; border-color:#fff; font-size: 13px; }
 
 
 
