@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
@@ -11,7 +10,7 @@ body{
 
 
 
-.banner { background-image: url(../images/cv.jpg);  
+.banner { background-image: url('../images/chaudron.jpg');  
           background-size: cover;      
           background-position: center;
           padding-top: 1px;
@@ -44,4 +43,3 @@ footer{ height: 100px;
         background-color:#D6A14D;  }
 
 
-footer p { color:white;    }
