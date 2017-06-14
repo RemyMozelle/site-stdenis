@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html' type='button' class='btn btn-default'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='site-stdenis/images/centre-ville.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-default'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='../site-stdenis/images/centreville.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-default'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
 
   ];
 
