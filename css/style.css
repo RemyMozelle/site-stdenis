@@ -53,7 +53,7 @@ footer{ height: 100px;
         background-color:#D4A04D  ;  }
 
 
-.contact { padding:60px 0; }
+.contact { padding:60px;}
 
 
 
@@ -63,7 +63,7 @@ h2{ padding-top: :60px; padding-bottom: 3px; font-weight: bold; color:#D4A04D ; 
 
 .services {
   background-color: #fff;
-  padding-top: 1px; }
+  padding-top: 1px; padding-bottom: 60px;}
 
 .services p {
   color: #a1a9aa; font-size: 13px;
@@ -92,6 +92,11 @@ article {
 .services .box h3 + h3 {
   color: #D4A04D; }
 
+.services .row { padding-top: 30px; }
+
+
+
+
 .fa-user-circle-o{color:#D4A04D;}
 
 .box {
@@ -106,3 +111,6 @@ article {
 .carte  { background-color: #eae5e5;}
 
 i{ color:#D4A04D; }
+
+.contact h3 { padding-bottom: 50px; 
+              margin-top: 10px; }
