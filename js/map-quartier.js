@@ -30,7 +30,7 @@ function initMap() {
 
     ["Saint François <br> <img src='../images/saint-francois.jpg' class='resize' alt=''>  <br> <a href='saint-francois.html' type='button' class='btn btn-info''>voir son site dédié</a>", -20.9250592, 55.45546880000006],
 
-    ["Sainte-Clotilde‎ <br> <img src='../images/sainte-clotilde.jpg' class='resize' alt=''>  <br> <a href='sainte-clotilde.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9190923, 55.48593630000005],
+    ["Sainte-Clotilde‎ <br> <img src='../images/sainteclotilde.jpg' class='resize' alt=''>  <br> <a href='sainte-clotilde.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9190923, 55.48593630000005],
 
     ["La Source‎ <br> <img src='../images/lasource.jpg' class='resize' alt=''>  <br> <a href='la-source.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8908983, 55.4481131],
 
