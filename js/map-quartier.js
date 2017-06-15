@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../images/barachois.jpg' class='resize' alt=''>  <br> <a href='barachois.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='../images/centreville.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='../images/cv.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
 
   ];
 
