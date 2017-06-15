@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../site-stdenis/images/barachois.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/barachois.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='../site-stdenis/images/cv.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='../site-stdenis/images/cv.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596, 55.45505359999993],
 
   ];
 
@@ -55,22 +55,22 @@ function initMap() {
     zoom: 12,
     center: stdenis,
     styles: [
-            {
-              featureType: 'water',
-              elementType: 'geometry',
-              stylers: [{color: '#155987'}]
-            },
-            {
-              featureType: 'water',
-              elementType: 'labels.text.fill',
-              stylers: [{color: '#515c6d'}]
-            },
-            {
-              featureType: 'water',
-              elementType: 'labels.text.stroke',
-              stylers: [{color: '#17263c'}]
-            }
-          ]
+      {
+        featureType: 'water',
+        elementType: 'geometry',
+        stylers: [{ color: '#155987' }]
+      },
+      {
+        featureType: 'water',
+        elementType: 'labels.text.fill',
+        stylers: [{ color: '#515c6d' }]
+      },
+      {
+        featureType: 'water',
+        elementType: 'labels.text.stroke',
+        stylers: [{ color: '#17263c' }]
+      }
+    ]
   });
 
   function placeMarker(loc) {
@@ -78,7 +78,7 @@ function initMap() {
     var marker = new google.maps.Marker({
       position: latLng,
       map: map,
-      icon: '../site-stdenis/icon-map/m-rouge.png' 
+      icon: '../site-stdenis/icon-map/m-rouge.png'
     });
 
     google.maps.event.addListener(marker, 'click', function () {

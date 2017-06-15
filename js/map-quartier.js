@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../images/barachois.jpg' class='resize' alt=''>  <br> <a href='barachois.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='../images/cv.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='../images/cv.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596, 55.45505359999993],
 
   ];
 
@@ -53,7 +53,7 @@ function initMap() {
   var infowindow = new google.maps.InfoWindow();
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 12,
-    center: stdenis 
+    center: stdenis
   });
 
   function placeMarker(loc) {
@@ -61,7 +61,7 @@ function initMap() {
     var marker = new google.maps.Marker({
       position: latLng,
       map: map,
-      icon: '../../site-stdenis/icon-map/m-rouge.png' 
+      icon: '../../site-stdenis/icon-map/m-rouge.png'
     });
 
     google.maps.event.addListener(marker, 'click', function () {
