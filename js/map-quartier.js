@@ -20,7 +20,7 @@ function initMap() {
 
     ["Montgaillard‎ <br> <img src='../images/mercure.jpg' class='resize' alt=''>  <br> <a href='montgaillard.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9058911, 55.46793149999996],
 
-    ["Petite Île <br> <img src='../images/petite-ile.jpg' class='resize' alt=''>  <br> <a href='petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
+    ["Petite Île <br> <img src='../images/petiteile.jpg' class='resize' alt=''>  <br> <a href='petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
 
     ["La Providence <br> <img src='../images/la-providence.jpg' class='resize' alt=''>  <br> <a href='la-providence.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9043277, 55.45546880000006],
 

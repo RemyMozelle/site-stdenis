@@ -20,7 +20,7 @@ function initMap() {
 
     ["Montgaillard‎ <br> <img src='../site-stdenis/images/mercure.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/montgaillard.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9058911, 55.46793149999996],
 
-    ["Petite Île <br> <img src='../site-stdenis/images/petite-ile.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
+    ["Petite Île <br> <img src='../site-stdenis/images/petiteile.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
 
     ["La Providence <br> <img src='../site-stdenis/images/la-providence.jpg' class='resize' alt=''>  <br> <a href='../site-stdenis/quartier/la-providence.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9043277, 55.45546880000006],
 
@@ -55,8 +55,6 @@ function initMap() {
     zoom: 12,
     center: stdenis,
     styles: [
- 
- 
             {
               featureType: 'water',
               elementType: 'geometry',
