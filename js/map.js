@@ -53,7 +53,26 @@ function initMap() {
   var infowindow = new google.maps.InfoWindow();
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 12,
-    center: stdenis 
+    center: stdenis,
+    styles: [
+ 
+ 
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [{color: '#155987'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#515c6d'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.stroke',
+              stylers: [{color: '#17263c'}]
+            }
+          ]
   });
 
   function placeMarker(loc) {
