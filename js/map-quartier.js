@@ -20,7 +20,7 @@ function initMap() {
 
     ["Montgaillard‎ <br> <img src='../images/mercure.jpg' class='resize' alt=''>  <br> <a href='montgaillard.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9058911, 55.46793149999996],
 
-    ["Petite Île <br> <img src='../images/petite-ile.jpg' class='resize' alt=''>  <br> <a href='petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
+    ["Petite Île <br> <img src='../images/petiteile.jpg' class='resize' alt=''>  <br> <a href='petite-ile.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8806737, 55.44290590000003],
 
     ["La Providence <br> <img src='../images/la-providence.jpg' class='resize' alt=''>  <br> <a href='la-providence.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.9043277, 55.45546880000006],
 
@@ -42,7 +42,7 @@ function initMap() {
 
     ["Barachois <br> <img src='../images/barachois.jpg' class='resize' alt=''>  <br> <a href='barachois.html' type='button' class='btn btn-info'>voir son site dédié</a>", -20.8726961, 55.448891900000035],
 
-    ["Centre ville <br> <img src='../images/centreville.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
+    ["Centre ville <br> <img src='../images/cv.jpg' class='resize' alt=''>  <br> <a href='centre-ville.html' type='button' class='btn btn-info'>voir son site dédié</a>'", -20.8906596,  55.45505359999993],
 
   ];
 
